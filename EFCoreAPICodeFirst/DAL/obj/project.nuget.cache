@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+NBoVqTP6DSeXpTun8UG39bcKuMsUv2d+L3a5U5wjkKekWsPFv9RB0Vjlt7KZ2l7ZhhCtLMntft5jJfv0P5ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shireesh.a\\source\\repos\\EFCoreAPICodeFirst\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shireesh.a\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shireesh.a\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
